@@ -1,0 +1,7 @@
+{
+  "env": {
+    "MONGODB_ATLAS_USERNAME": "##Your Username##",
+    "MONGODB_ATLAS_PASSWORD": "## Password ##",
+    "MONGODB_ATLAS_DBNAME": "## Database Name ##"
+  }
+}
